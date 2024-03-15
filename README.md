@@ -13,7 +13,7 @@ N/A
 
 To use my Prework Study Guide, you can simply review every topic by reading every list. You can choose a topic by using google inspect to open the console which will return 
 a random topic to study.
-![alt text](assets/images/screenshot.png)
+![screenshot](assets/screenshot.png)
 
 ## Credits
 
